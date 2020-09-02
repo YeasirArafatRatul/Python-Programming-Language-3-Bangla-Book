@@ -5,7 +5,7 @@
 *~Yeasir Arafat Ratul* 
  
 
-[Cover](https://github.com/YeasirArafatRatul/Python-E-Book/blob/master/main%20_cover.jpg)
+[Cover](https://github.com/YeasirArafatRatul/hunt_python/blob/master/main%20_cover.jpg)
 
 **CHAPTERS**
 
