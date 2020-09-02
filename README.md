@@ -62,4 +62,6 @@
 	* Making a ChatBox
 
 12. Regular Expression
-13. Asynchronous Programming - async await
+
+13. Asynchronous Programming
+	* async await
