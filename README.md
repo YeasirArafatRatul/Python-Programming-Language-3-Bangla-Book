@@ -1,5 +1,6 @@
 
 # Bangla Python E Book
+## The Book is renamed as 'Python Programming Language' and will be released soon
 
 **HUNT PYTHON - 180 Pages**
 *~Yeasir Arafat Ratul* 
