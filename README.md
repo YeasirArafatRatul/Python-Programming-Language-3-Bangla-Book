@@ -5,7 +5,7 @@
 ## Publisher: ShobdoShoili Prokashoni
 
 
-**HUNT PYTHON - 145 Pages**
+**HUNT PYTHON**
 *~Yeasir Arafat Ratul* 
  
 *Here you will get first 8 chapters of the main book*
