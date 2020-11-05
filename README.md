@@ -6,7 +6,9 @@
 *~Yeasir Arafat Ratul* 
  
 
-[Cover](https://github.com/YeasirArafatRatul/hunt_python/blob/master/main%20_cover.jpg)
+## Cover
+<img src="main _cover.jpg" height="1200">
+
 
 **CHAPTERS**
 
