@@ -1,5 +1,5 @@
 
-# Bangla Python E Book
+# Bangla Python E Book - Free Version
 
 ## The Book is renamed as 'Python Programming Language' and THE EXTENDED HARD COPY will be released soon
 ## Publisher: ShobdoShoili Prokashoni
@@ -54,13 +54,22 @@
 	* Constructors
 	* Generators
 	* Some Built-in functions
+	   * map()
+	   * filter()
+	   * eval()
+	   * exec()
+	   * str()
+	   * repr()
 
 6. Exceptions
     * common errors
     * try-except
     * finally
     * else
+
 7. Object Oriented Programming
+    * class
+    * object
     * Inheritance 
     * Polymorphism
     * Encapsulation
