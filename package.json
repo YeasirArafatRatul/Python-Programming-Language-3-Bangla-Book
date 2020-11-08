@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeasirArafatRatul/hunt_python-Bangla-E-book.git"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "yeasir arafat ratul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YeasirArafatRatul/hunt_python-Bangla-E-book/issues"
+  },
+  "homepage": "https://github.com/YeasirArafatRatul/hunt_python-Bangla-E-book#readme"
+}
