@@ -11,7 +11,7 @@
 *Here you will get first 8 chapters of the main book*
 
 ## Cover
-<img src="main _cover.jpg" height="1200">
+<img src="cover.jpg" >
 
 
 **CHAPTERS**
