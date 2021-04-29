@@ -1,7 +1,7 @@
 
 # Bangla Python E Book - Free Version
 
-## The Book is renamed as 'Python Programming Language' and THE EXTENDED HARD COPY will be released soon
+## The Book is renamed as 'Python Programming Language' and THE EXTENDED HARD COPY is available [here](https://www.rokomari.com/book/208621/python-programing-language-3).
 ## Publisher: ShobdoShoili Prokashoni
 
 
