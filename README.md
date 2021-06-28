@@ -1,13 +1,9 @@
 
-# Bangla Python E Book - Free Version
+# বাংলা পাইথন বই - পাইথন প্রোগ্রামিং ল্যাংগুয়েজ ৩ ~ ইয়াসির আরাফাত রাতুল
 
-## The Book is renamed as 'Python Programming Language' and THE EXTENDED HARD COPY is available [here](https://www.rokomari.com/book/208621/python-programing-language-3).
+## 'Python Programming Language' ~ THE EXTENDED HARD COPY is available [here](https://www.rokomari.com/book/208621/python-programing-language-3).
 ## Publisher: ShobdoShoili Prokashoni শব্দশৈলী প্রকাশনী
 
-
-**HUNT PYTHON**
-*~Yeasir Arafat Ratul* 
- 
 *Here you will get first 8 chapters of the main book*
 
 ## Cover
